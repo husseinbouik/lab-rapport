@@ -24,8 +24,8 @@ order : 1
 ![médecin générale Carte d'empathie](assets/images/médecin-générale.png)
 *Figure 3: Médecin général Algamot asia*
 
-## D’empathie d’orthoptiste - Imane Errahmouni
-
+<!-- ## D’empathie d’orthoptiste - Imane Errahmouni -->
+<!-- 
 ![d’empathie d’orthoptiste Carte d'empathie](assets/images/d’empathie-d’orthoptiste.png)
 *Figure 4: D’empathie d’orthoptiste - Imane Errahmouni*
 
@@ -84,7 +84,7 @@ order : 1
 ## Responsable de pôle éducatif - Fouad Ichir
 
 ![Responsable de pôle éducatif](assets/images/Responsable-de-pôle-éducatif.png)
-*Figure 15: Responsable de pôle éducatif - Fouad Ichir*
+*Figure 15: Responsable de pôle éducatif - Fouad Ichir* -->
 
 ## Références
 
