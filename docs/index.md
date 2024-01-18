@@ -4,10 +4,21 @@ order : 1
 ---
 
 
-
+```html
+<!DOCTYPE HTML>
+<html dir="ltr" lang="fr_FR">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <title> Rapport </title>
+    </head>
+```
 # Rapport
 
 ## Carte d’empathie
+
 
 ### Introduction
 
