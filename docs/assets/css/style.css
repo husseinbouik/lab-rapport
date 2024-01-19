@@ -55,6 +55,7 @@
     h1::before {
       counter-increment: page;
       content:  counter(page)".";
+      page-break-before: always;
     }
   
   }
