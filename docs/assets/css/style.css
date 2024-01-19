@@ -54,7 +54,7 @@
     }
     h1::before {
       counter-increment: page;
-      content: "Page " counter(page);
+      content:  counter(page)".";
     }
   
   }
