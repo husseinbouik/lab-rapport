@@ -45,11 +45,16 @@
       margin: 0;
       padding: initial;
       box-shadow: initial;
+      counter-reset: page;
+
     }
   
     img {
       width: 85%;
     }
-  
+    h1::before {
+      counter-increment: page;
+      content: "Page " counter(page);
+    }
   
   }
