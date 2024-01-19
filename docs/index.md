@@ -7,10 +7,7 @@ order : 1
 # Projet XYZ : Rapport Projet cnmh
 
 ![University Logo](./assets/images/Slide1.jpg)
-![University Logo](./assets/images/Slide2.jpg) 
-![Alt text](assets/images/Slide3.jpg) 
-![Alt text](assets/images/Slide5.jpg) 
-![Alt text](assets/images/Slide4.jpg)
+
 ---
 
 ## **Titre du Rapport**
