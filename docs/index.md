@@ -16,8 +16,10 @@ order: 1
 ### **Établissement :** *Solicode*
 ### **Année Académique :** *2023-2024*
 ---
+<div style="page-break-before: always;"></div>
 
 # Plan du Rapport
+
 1. [Listes des Figures](#listes-des-figures) <!-- Page 2 -->
 2. [Remerciement](#remerciement) <!-- Page 5 -->
 3. [Introduction](#introduction) <!-- Page 6 -->
@@ -54,3 +56,4 @@ order: 1
 4. [Conclusion](#conclusion) <!-- Page 34 -->
 5. [Annexe A : Maquettes](#annexe-a--maquettes) <!-- Page 35 -->
 6. [Annexe B : Affectation des Tâches](#annexe-b--affectation-des-taches)
+<div style="page-break-before: always;"></div>
