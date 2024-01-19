@@ -30,7 +30,6 @@ order: 1
 ### **Année Académique :** *2023-2024*
 
 ---
-<div style="page-break-before: always;"></div>
 
 # Plan du Rapport
 
