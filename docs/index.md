@@ -3,15 +3,15 @@ layout: default
 order: 1
 ---
 
-# Projet XYZ : Rapport Projet cnmh
+# Projet CNMH : Rapport Projet cnmh
 
 ![University Logo](./assets/images/Slide1.jpg)
 
 ---
 
-## **Titre du Rapport**
+## **Application cnmh**
 
-### *Sujet du Rapport*
+### *digitalisation des documents*
 
 ---
 
