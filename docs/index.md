@@ -16,7 +16,7 @@ order: 1
 ### **Établissement :** *Solicode*
 ### **Année Académique :** *2023-2024*
 ---
-<div style="page-break-before: always;"></div>
+<!-- <div style="page-break-before: always;"></div> -->
 
 # Plan du Rapport
 
