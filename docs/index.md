@@ -2,35 +2,22 @@
 layout: default
 order: 1
 ---
-
 # Projet CNMH : Rapport Projet cnmh
-
 ![University Logo](./assets/images/Slide1.jpg)
-
 ---
-
 ## **Application cnmh**
-
 ### *digitalisation des documents*
-
 ---
-
 **Étudiant(e) :** *hussein bouik*
-
 **Date de Remise :** *1/19/2024*
-
 **Encadré(e) par :** *Essaraj Fouad*
-
 ---
-
 ### **Programme d'Études :** *Development Mobile*
-
 ### **Établissement :** *Solicode*
-
 ### **Année Académique :** *2023-2024*
-
 ---
 <div style="page-break-before: always;"></div>
+
 # Plan du Rapport
 
 1. [Listes des Figures](#listes-des-figures) <!-- Page 2 -->
